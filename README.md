@@ -14,7 +14,7 @@ CICD... just one of so many new buzz words we've been exposed to over the last f
 
 ### Presentation Slides
 
-A slide show version of this presentation is available at this link: [CICD Slides](https://rawgit.com/imapex-training/mod_cicd/master/output/index.html#/)
+A slide show version of this presentation is available at this link: [CICD Slides](https://rawgit.com/kkureish/mod_cicd/master/output/index.html)
 
 [item]: # (slide)
 # Main Topics
@@ -82,7 +82,8 @@ Once new code has been packaged and delivered to the appropriate repository, it 
 
 * **Continuous Integration**: Merging of development work with code base constantly so that automated testing can catch problems early
 * **Continuous Delivery**: Software package delivery mechanism for releasing code to staging for review and inspection
-* **Continous Deployment**: Relies on CI and CD to automatically release code into production as soon as it is ready. Constant flow of new features into production 
+* **Continous Deployment**: Relies on CI and CD to automatically release code into production as soon as it is ready. Constant flow of new features into production
+ 
 
 [item]: # (/slide)
 
